@@ -1,0 +1,16 @@
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\obj\Debug\net8.0-windows\IMTperhituungan.vbproj.GenerateResource.cache
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\obj\Debug\net8.0-windows\IMTperhituungan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\obj\Debug\net8.0-windows\IMTperhituungan.AssemblyInfoInputs.cache
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\obj\Debug\net8.0-windows\IMTperhituungan.AssemblyInfo.vb
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\obj\Debug\net8.0-windows\IMTperhituungan.vbproj.CoreCompileInputs.cache
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\obj\Debug\net8.0-windows\IMTperhituungan.Form1.resources
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\bin\Debug\net8.0-windows\IMTperhituungan.exe
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\bin\Debug\net8.0-windows\IMTperhituungan.deps.json
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\bin\Debug\net8.0-windows\IMTperhituungan.runtimeconfig.json
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\bin\Debug\net8.0-windows\IMTperhituungan.dll
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\bin\Debug\net8.0-windows\IMTperhituungan.pdb
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\obj\Debug\net8.0-windows\IMTperhituungan.dll
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\obj\Debug\net8.0-windows\refint\IMTperhituungan.dll
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\obj\Debug\net8.0-windows\IMTperhituungan.pdb
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\obj\Debug\net8.0-windows\IMTperhituungan.genruntimeconfig.cache
+C:\Users\Trisda Surbakti\source\repos\IMTperhituungan\IMTperhituungan\obj\Debug\net8.0-windows\ref\IMTperhituungan.dll
